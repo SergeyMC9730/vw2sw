@@ -1,4 +1,4 @@
-# vw2sw
+# SimpleWhitelist converter
 Converter from Vanilla whitelist to SimpleWhitelist config for Minecraft
 # Usage
 1. Download this repository
